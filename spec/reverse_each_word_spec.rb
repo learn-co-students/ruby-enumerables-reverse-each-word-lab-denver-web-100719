@@ -1,3 +1,4 @@
+
 require 'spec_helper'
 
 describe '#reverse_each_word' do
